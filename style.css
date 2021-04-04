@@ -6,8 +6,10 @@ img {
 body
 {
     width: auto;
+    background-image: url(images/received_10156060933734228.JPEG);
 
 }
+
 ul {
     display: flex;
     list-style-type: none;
